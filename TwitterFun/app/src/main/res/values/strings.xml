@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">TwitterFun</string>
+    <string name="twitter_callback">http://alicelubic.github.io</string>
+    <string name="twitter_consumer_key">OyZdaTiUqwj0gDw5pEpjW5BDr</string>
+    <string name="twitter_consumer_secret">iAoo12pKNiQvUl68Vav9u1Dz6WMnv6ofbGvfu8pTfF885SQuO4</string>
+    <string name="twitter_oauth_verifier">oauth_verifier</string>
+</resources>
